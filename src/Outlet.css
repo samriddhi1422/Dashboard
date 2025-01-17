@@ -1,0 +1,44 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+   
+    background-color: #f4f6f9;
+}
+
+
+.header {
+    background-color: #34495e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.container {
+    display: flex;
+    /* height: calc(100vh - 60px);  */
+    height: 100vh;
+}
+
+
+
+
+.layout {
+    flex-grow: 1;
+    padding: 20px;
+    background-color: #ecf0f1;
+    overflow-y: auto;
+}
+
+
+

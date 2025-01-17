@@ -1,0 +1,26 @@
+.lineChart{
+    background-color:  rgb(255, 255, 255);
+    padding: 20px;
+    height: 400px;
+    width: 600px;
+    border-radius: 30px;
+}
+.bar-chart{
+    
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    height: 400px;
+    width: 600px;
+    border-radius: 30px;
+}
+.dash{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.head h2{
+    font-size: x-large;
+    margin-bottom: 50px;
+}
